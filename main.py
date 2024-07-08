@@ -31,6 +31,7 @@ urls = [
     'https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt',
     'https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts',
     'https://urlhaus.abuse.ch/downloads/hostfile',
+    'https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser'
     # Add more URLs as needed
 ]
 
